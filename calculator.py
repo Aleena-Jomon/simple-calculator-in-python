@@ -17,7 +17,7 @@ elif option==2:
     r=a*b
     print("product=",r)
 elif option==3:
-    r=a//b
+    r=a/b
     p=a%b
     print("quotient=",r)
     print("remainder=",p)
