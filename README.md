@@ -1,2 +1,3 @@
 # simple-calculator-in-python
-i had just started learning python. just a lame try.
+strting the python lang with a code which works as a calculator
+
